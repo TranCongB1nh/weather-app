@@ -7,9 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 ## How to use "Weather-app"
+
 Step 1: Download the code from GitHub to your computer, then open the downloaded folder.
 Step 2: open "XAMPP control panel", turn on the "Apache" and "MySQL" modules.
 Step 3: In the terminal of the downloaded folder, type "php artisan serve". Terminal will gave give you a URL, paste that URL to your web browser.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
