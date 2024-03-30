@@ -9,7 +9,9 @@
 ## How to use "Weather-app"
 
 Step 1: Download the code from GitHub to your computer, then open the downloaded folder.
+
 Step 2: open "XAMPP control panel", turn on the "Apache" and "MySQL" modules.
+
 Step 3: In the terminal of the downloaded folder, type "php artisan serve". Terminal will gave give you a URL, paste that URL to your web browser.
 
 ## About Laravel
