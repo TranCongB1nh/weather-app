@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "framework": "null",
+    "framework": "other",
     "functions": {
         "api/index.php": {
             "runtime": "vercel-php@0.6.0"
@@ -13,7 +13,7 @@
         }
     ],
     "env": {
-        "APP_ENV": "production",
+        "APP_ENV": "local",
         "APP_DEBUG": "true",
         "APP_URL": "http://weather-app.vercel.app",
         "APP_CONFIG_CACHE": "/tmp/config.php",
